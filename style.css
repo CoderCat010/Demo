@@ -1,6 +1,3 @@
-*{
-    font-family: 'Nunito Sans', sans-serif;
-}
 
 /* Style for the list items */
 .lio {
@@ -23,5 +20,33 @@
     font-size: 24px; /* Adjust the size as needed */
     color: #333; /* Adjust the color as needed */
   }
+
+  .bbb{
+    color: rgb(238, 224, 255);
+    font-weight: 600;
+  }
+
+  .textoo{
+    color: rgb(238, 224, 255);
+    font-weight: 600;
+    font-size: 18px;
+    align-items: center;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+
+  .br{
+    font-size: .875rem;
+    font-weight: 500;
+    line-height: 1.5;
+  }
+
+  .bb{
+    font-family: "Space Grotesk","Hind Siliguri",sans-serif!important;
+  }
+  
+  .att{
+    border: 1px solid #405aff;
+  }
+  
 
   
