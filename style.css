@@ -1,0 +1,27 @@
+*{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+/* Style for the list items */
+.lio {
+    display: flex;
+}
+
+  .cool{
+    border-top: 1px solid #a53cac;
+    border-left: 1px solid #e152d9;
+    border-right: 1px solid rebeccapurple;
+  }
+
+  .texto{
+    color: rgba(156, 38, 108, 1);
+  }
+
+  .flex-icons {
+    display: flex;
+    justify-content: space-between; /* Adjust as needed */
+    font-size: 24px; /* Adjust the size as needed */
+    color: #333; /* Adjust the color as needed */
+  }
+
+  
